@@ -1,0 +1,1 @@
+Due to the stochastic nature of the added random noise, running the code (1D 1-bit simulation) will not generate an identical result to the figure in the manuscript. To ensure direct reproducibility, the simulation data used to generate Fig. 1b has been provided.
